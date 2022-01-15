@@ -23,7 +23,7 @@ function Header() {
                     </div>
                 <div className="mobile-menu">
                <div onClick={()=>setIsOpen(!isOpen)}>
-               <i class="fas fa-bars"></i>
+               <i class="fas fa-bars" ></i>
                {/* <i class="fas fa-hamburger menu-icon" ></i> */}
       
              
