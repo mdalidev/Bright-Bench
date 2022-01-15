@@ -1,0 +1,30 @@
+.t{
+    width: 50px;
+    height: 25px;
+    border-radius: 20px;
+    border: 1pz solid #999;
+    position: fixed;
+    top: 56px;
+    right: 10px;
+    z-index: 999;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* background-color: rgb(131 255 171); */
+    background-color: rgb(153 184 208 / 75%);
+}
+.t-icon{
+    width: 15px;
+    height: 15px;
+    /* width: fit-content;
+    height: 100%; */
+}
+.t-button{
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    /* background-color: #d4d4d4; */
+    background-color:#b6dfff;
+    position: absolute;
+    cursor: pointer;
+}

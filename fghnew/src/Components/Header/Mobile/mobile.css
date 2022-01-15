@@ -1,0 +1,38 @@
+.mobile{
+    background-color: white;
+    /* height: 35%; */
+    width: 100%;
+    position: fixed;
+    right: 0px;
+    /* background-color: rgba(0, 0, 0, 0.2); */
+    top:-7px;
+    padding: 15px 12px;
+    display: flex;
+    flex-direction: column;
+    z-index:3;
+}
+.close-icon{
+    display: flex;
+  
+    justify-content: flex-end;
+    font-size: 25px;
+}
+.mobile-options{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    /* background-color: rgb(0 0 0 / 17%); */
+    padding-top: 24px;
+    justify-content: center;
+    align-items: center;
+    height: 10%;
+}
+.mobile-option{
+    font-size: 25px;
+    margin: 12px 0;
+    display: flex;
+}
+.mobile-option a{
+    text-decoration: none;
+    color: black;
+}
