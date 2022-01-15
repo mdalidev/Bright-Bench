@@ -2,6 +2,8 @@ import React, { useContext, useState } from 'react'
 import Mobile from './Mobile/Mobile'
 import Web from './Web/Web'
 import './Header.css'
+import logo from '../../img/logo1.svg'
+import logo2 from '../../img/logo2.svg'
 import { ThemeContext } from '../../context'
 
 
@@ -12,7 +14,9 @@ function Header() {
     return (
         <div className="header">
             <div style={{color: darkMode && "#999"}} className="logo">
-                <h3> Bright Bench</h3></div>
+                
+                <img src={logo2} alt=""  />
+                </div>
             <div className="menu">
                 <div className="web-menu">
                     <Web/>
