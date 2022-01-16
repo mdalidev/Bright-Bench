@@ -12,11 +12,11 @@ export const SkillsData=[
              },
           {
               name:"MBA",
-              icon:<i class="fas fa-hotel"></i>,
+              icon:<i class="fas fa-user-graduate"></i>,
              },
           {
               name:"P.G",
-              icon:<i class="fas fa-university"></i>,
+              icon:<i class="fas fa-user-graduate"></i>,
              },
          
       ]
