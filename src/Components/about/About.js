@@ -32,9 +32,13 @@ function About() {
                       <h3 >Here is our  Few Courses  Highlights</h3>
                 <ul className="a-desc-list">
                
-                  <li><span style={{fontSize:'17px',color:'darkblue'}}>&#9673;</span>Full Stack web and mobile development</li>
-                  <li><span style={{fontSize:'17px',color:'darkblue'}}>&#9673;</span>Problem Solving Ability</li>
-                  <li><span style={{fontSize:'17px',color:'darkblue'}}>&#9673;</span>Data Structure's & Algo</li>
+                  <li><span style={{fontSize:'17px',color:'darkblue'}}>&#9673;</span>BAchelor's in Engineering</li>
+                  <li><span style={{fontSize:'17px',color:'darkblue'}}>&#9673;</span>BAchelor's in Management</li>
+                  <li><span style={{fontSize:'17px',color:'darkblue'}}>&#9673;</span>BAchelor's in Medical</li>
+                  <li><span style={{fontSize:'17px',color:'darkblue'}}>&#9673;</span>BAchelor's in Medical & Surgen</li>
+                  <li><span style={{fontSize:'17px',color:'darkblue'}}>&#9673;</span>BAchelor's in Homeopath</li>
+                  <li><span style={{fontSize:'17px',color:'darkblue'}}>&#9673;</span>ILETS,TOFEL,GRE,GMAT,SAT</li>
+                  
                  
                  
                 </ul>

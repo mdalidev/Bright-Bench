@@ -6,8 +6,11 @@ function QualifCard({item}) {
             {/* <div className="work-logo">{item.img}</div> */}
             <img src={item.img}  className="work-logo"></img>
             <div className="work-info">
-             <h3> <lable className="company-name">{item.school}</lable></h3>
+                <div className="work-desc">
+                       <h3> <lable className="company-name">{item.school}</lable></h3>
                  <lable className="work-role">{item.role}</lable>
+                </div>
+          
               <div className="works-date">
                   <label>{item.dateJoining}</label>~<lable>{item.dateEnd}</lable>
               </div>

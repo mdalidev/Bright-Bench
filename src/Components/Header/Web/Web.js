@@ -23,7 +23,7 @@ function Web() {
             </div>
             <div className="web-option">
             <a style={{color: darkMode && "white"}} href="#education">
-            <i class="fas fa-user-graduate"></i>Mentors
+            <i class="fas fa-user-graduate option-code"></i>Mentors
 
             </a>
 

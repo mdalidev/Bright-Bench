@@ -24,7 +24,7 @@ function Mobile({isOpen,setIsOpen}) {
             <div className="mobile-options">
             <div className="mobile-option">
             <a style={{color: darkMode && "white"}} href="#skill">
-            <i class="fas fa-laptop-code option-icon">Services</i>
+            <i class="fas fa-laptop-code option-icon">Courses</i>
 
             </a>
 
@@ -33,7 +33,7 @@ function Mobile({isOpen,setIsOpen}) {
             <div className="mobile-options">
             <div className="mobile-option">
             <a style={{color: darkMode && "white"}} href="#education">
-            <i class="fas fa-chalkboard-teacher">Mentor's</i>
+            <i class="fas fa-chalkboard-teacher option-icon">Mentor's</i>
 
             </a>
 

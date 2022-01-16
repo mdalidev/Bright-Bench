@@ -19,6 +19,7 @@
     display:flex;
     align-items: center;
     margin: 4px;
+    color: #dcf0ff;
 }
 .web-option:last-child{
     margin: 0px;

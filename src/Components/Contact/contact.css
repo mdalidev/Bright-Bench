@@ -54,13 +54,14 @@ form{
 input{
     width:50%;
     height: 50px;
-    border:none;
-    border-bottom: 1px solid black;
+    border:3px solid #8fc3df;
+    /* border-bottom: 1px solid black; */
     margin: 10px 0px;
     font-size: 14px;
     padding-left: 10px;
 }
 textarea{
+    border:3px solid #8fc3df;
     width: 100%;
     margin: 10px 0px;
     font-size: 14px;
@@ -138,6 +139,9 @@ padding: 8px 12px;
         height: 40px;
         margin: 10px;
         margin-left: 0;
+    }
+    textarea{
+        width: 80%;
     }
     button{
 margin-top: 10px;

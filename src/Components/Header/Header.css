@@ -66,7 +66,7 @@ left: 20px;
 }
 @media only screen and (max-width:500px) {
     .logo{
-        width: 130px;
+        width: 110px;
     }
     .mobile-menu{
         font-size: 35px;

@@ -42,9 +42,25 @@ justify-content: space-between;
     }
     
 }
-@media only screen and (max-width:500px) {
+/* @media only screen and (max-width:500px) {
   .work-logo{
       width: 45%;
   }
+    
+} */
+@media only screen and (max-width:500px) {
+    .work-card{
+     flex-direction: column;
+    }
+    .work-desc{
+        display: inline-grid;
+        max-width: 70%;
+    }
+    .work-info{
+        align-items: center;
+    }
+    .work-logo{
+        width: 80%;
+    }
     
 }

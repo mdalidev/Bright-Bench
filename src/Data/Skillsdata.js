@@ -1,75 +1,76 @@
 export const SkillsData=[
     {
-      type:"Our Top University Partners",
+      type:"Graduation",
       list:[
           {
-              name:"Java",
+              name:"B.TECH",
             //   icons:<i class="devicon-java-plain colored"></i>,
-              icons:<i class="devicon-university"></i>,
+            icon:<i class="fas fa-user-graduate"></i>,
+            //   icons:<i class="devicon-university"></i>,
 
             
              },
           {
-              name:"C",
-              icons:<i class="devicon-c-plain colored"></i>,
+              name:"MBA",
+              icon:<i class="fas fa-hotel"></i>,
              },
           {
-              name:"C++",
-              icons:<i class="devicon-cplusplus-plain colored"></i>,
+              name:"P.G",
+              icon:<i class="fas fa-university"></i>,
              },
          
       ]
     },
     {
-        type:"Our Courses",
+        type:"Forigen Degree",
         list:[
             {
-                name:'Reactjs',
-                icons:<i class="devicon-react-original colored"></i>,
+                name:'ILETS',
+                icons:<i class="fas fa-book-reader"></i>,
                
             },
             {
-                name:'JavaScripts',
-                icons:<i class="devicon-javascript-plain colored"></i>,
+                name:'TOFEL',
+                icons:<i class="fas fa-book-reader"></i>,
             
             },
             {
-                name:'Html',
-                icons:<i class="devicon-html5-plain colored"></i>,
+                name:'GRE',
+                icons:<i class="fas fa-book-reader"></i>,
                
             },
             {
-                name:'CSS',
-                icons:<i class="devicon-css3-plain colored"></i>,
+                name:'GMAT',
+                icons:<i class="fas fa-book-reader"></i>,
             },
             {
-                name:'TypeScripts',
-                icons:<i class="devicon-typescript-plain colored"></i>,
+                name:'SAT',
+                icons:<i class="fas fa-book-reader"></i>,
             },
            
         ]
     },
     {
-type:"Backend",
+type:"MEDICAL",
 list:[
     {
-        name:'Nodejs',
-        icons:<i class="devicon-nodejs-plain colored"></i>,
+        name:'MBBS',
+        icons:<i class="fas fa-user-md"></i>,
       
     },
     {
-        name:'MongoDb',
-        icons:<i class="devicon-mongodb-plain colored"></i>,
+        name:'BDS',
+        icons:<i class="fas fa-tooth"></i>,
    
     },
     {
-        name:'Express',
-        icons:<i class="devicon-express-original colored"></i>,
+        name:'BUMS',
+        icons:<i class="fas fa-vials"></i>,
        
     },
     {
-        name:'NPM',
-        icons:<i class="devicon-npm-original-wordmark colored"></i>,
+        name:'BHMS',
+        icons:<i class="fas fa-syringe"></i>,
    
     },
 
