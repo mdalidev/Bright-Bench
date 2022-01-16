@@ -1,14 +1,16 @@
 .c{
     height: 100vh;
     position: relative;
+    background-color: #03599c;
+    color: white;
 
   
    
 }
 .c-bg{
-    width:20px;
-    height: 112%;
-    background-color: rgb(79 255 109);
+    width:25px;
+    height: 97%;
+    background-color: rgb(143 195 223);
     position: absolute;
 }
 .c-wrapper{
@@ -26,7 +28,7 @@
     flex-direction: column;
 }
 .c-title{
-    font-size: 50px;
+    font-size: 40px;
     width: 80%;
 }
 .c-info-item{
@@ -43,7 +45,8 @@
     margin-right: 20px;
 }
 .c-desc{
-    font-weight: 20;
+    font-weight: bold;
+    font-size: 23px;
 }
 form{
     margin-top: 20px;
@@ -66,15 +69,15 @@ textarea{
 button{
     border: none;
     padding: 15px;
-    background-color: rgb(79 255 109);
-    color: rgb(0, 0, 0);
+    background-color: rgb(243 61 38);
+    color: whitesmoke;
     font-weight: 300;
     border: 2px solid;
     border-radius: 6px;
     cursor: pointer;
 }
 .download{
-background-color:#4fff6d;
+background-color:rgb(7, 18, 163);
 height: fit-content;
 width: fit-content;
 font-size: 22px;
@@ -123,7 +126,7 @@ padding: 8px 12px;
         width: 100%;
     }
     .c-desc{
-        display: none;
+        /* display: none; */
     }
     form{
         margin-top: 0px ;

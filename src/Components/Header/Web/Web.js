@@ -8,8 +8,23 @@ function Web() {
         <div style={{backgroundColor: darkMode && "#333"}} className="web">
             <div  className="web-option">
             <a style={{color: darkMode && "white"}} href="#projects">
-            <i class="fas fa-project-diagram option-icon"></i>Projects
+            <i class="fas fa-project-diagram option-icon"></i>Partners
                
+            </a>
+
+            </div>
+           
+            <div className="web-option">
+            <a style={{color: darkMode && "white"}} href="#skill">
+            <i class="fas fa-laptop-code option-code"></i>Services
+
+            </a>
+
+            </div>
+            <div className="web-option">
+            <a style={{color: darkMode && "white"}} href="#education">
+            <i class="fas fa-user-graduate"></i>Mentors
+
             </a>
 
             </div>
@@ -19,21 +34,6 @@ function Web() {
             </a>
 
             </div>
-            <div className="web-option">
-            <a style={{color: darkMode && "white"}} href="#skill">
-            <i class="fas fa-laptop-code option-code"></i>Skills
-
-            </a>
-
-            </div>
-            <div className="web-option">
-            <a style={{color: darkMode && "white"}} href="#education">
-            <i class="fas fa-user-graduate"></i>Education
-
-            </a>
-
-            </div>
-          
             <div className="web-option">
             <a style={{color: darkMode && "white"}} href="#contact">
             <i class="fas fa-mobile-alt option-code"></i>Contact

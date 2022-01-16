@@ -1,10 +1,13 @@
 export const SkillsData=[
     {
-      type:"Programming Languages",
+      type:"Our Top University Partners",
       list:[
           {
               name:"Java",
-              icons:<i class="devicon-java-plain colored"></i>,
+            //   icons:<i class="devicon-java-plain colored"></i>,
+              icons:<i class="devicon-university"></i>,
+
+            
              },
           {
               name:"C",
@@ -18,7 +21,7 @@ export const SkillsData=[
       ]
     },
     {
-        type:"Frontend",
+        type:"Our Courses",
         list:[
             {
                 name:'Reactjs',

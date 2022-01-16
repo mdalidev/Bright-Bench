@@ -91,7 +91,7 @@
           display: none;
       }
       .a-desc{
-          display: none;
+          /* display: none; */
       }
       .a-right{
           top:0px;

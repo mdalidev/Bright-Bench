@@ -9,7 +9,7 @@ function Qualif() {
     return (
         <div id="education" className="work">
             <Seperator/>
-            <lable className="section-title">Education<i class="fas fa-user-graduate"></i></lable>
+            <lable className="section-title">Our Mentor's<i class="fas fa-user-graduate"></i></lable>
             <div className="work-list">
                 {
                     data.map((item)=>{

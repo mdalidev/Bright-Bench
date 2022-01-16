@@ -32,7 +32,7 @@ function Footer() {
   </div>
 
   <nav className="footer-nav" role="navigation">
-    <p> &copy; Made with <span style={{color:"red"}}>❤</span> by{" ALI"}
+    <p>  Copyright &copy; 2022-Brick Bench.All right reserved! 
       </p>
   </nav>
 </footer>

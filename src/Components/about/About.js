@@ -32,14 +32,10 @@ function About() {
                       <h3 >Here is our  Few Courses  Highlights</h3>
                 <ul className="a-desc-list">
                
-                  <li><span style={{fontSize:'17px',color:'#11bc2e'}}>&#9673;</span>Full Stack web and mobile development</li>
-                  <li><span style={{fontSize:'17px',color:'#11bc2e'}}>&#9673;</span>Problem Solving Ability</li>
-                  <li><span style={{fontSize:'17px',color:'#11bc2e'}}>&#9673;</span>Data Structure's & Algo</li>
-                  <li><span style={{fontSize:'17px',color:'#11bc2e'}}>&#9673;</span>Interactive Front End as per the design</li>
-                  <li><span style={{fontSize:'17px',color:'#11bc2e'}}>&#9673;</span>React and React Native</li>
-                  <li><span style={{fontSize:'17px',color:'#11bc2e'}}>&#9673;</span>Redux for State Management</li>
-                  <li><span style={{fontSize:'17px',color:'#11bc2e'}}>&#9673;</span>Building REST API</li>
-                  <li><span style={{fontSize:'17px',color:'#11bc2e'}}>&#9673;</span>Managing database</li>
+                  <li><span style={{fontSize:'17px',color:'darkblue'}}>&#9673;</span>Full Stack web and mobile development</li>
+                  <li><span style={{fontSize:'17px',color:'darkblue'}}>&#9673;</span>Problem Solving Ability</li>
+                  <li><span style={{fontSize:'17px',color:'darkblue'}}>&#9673;</span>Data Structure's & Algo</li>
+                 
                  
                 </ul>
                 </p>

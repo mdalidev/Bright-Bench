@@ -42,3 +42,9 @@ justify-content: space-between;
     }
     
 }
+@media only screen and (max-width:500px) {
+  .work-logo{
+      width: 45%;
+  }
+    
+}

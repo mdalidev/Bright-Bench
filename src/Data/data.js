@@ -6,44 +6,51 @@ export const projects =[
     {
         id:1,
         
-        img:'/pimg/fgh.png',
+        img:'/pimg/mit.png',
         
-        link:"https://famousglasshouse.in/",
-        heading:"Famous Glass House",
+        link:"https://mitsloan.mit.edu/",
+        heading:"MIT",
     },
     {
         id:2,
-        img:'/pimg/amazon.png',
-        link:"https://e-commerce-tau-gules.vercel.app/",
-        heading:"Amazon-Clone",
+        
+        img:'/pimg/mit.png',
+        
+        link:"https://mitsloan.mit.edu/",
+        heading:"MIT",
+    },
+    {
+        id:2,
+        
+        img:'/pimg/mit.png',
+        
+        link:"https://mitsloan.mit.edu/",
+        heading:"MIT",
     },
     {
         id:3,
-    
-        img:'/pimg/txt.png',
-        heading:"Blog Text-Utils",
-      
-        link:"https://blog-text-utils.vercel.app/TextForm",
+        
+        img:'/pimg/mit.png',
+        
+        link:"https://mitsloan.mit.edu/",
+        heading:"MIT",
     },
     {
         id:4,
         
-        img:'/pimg/food.png',
-        link:"https://food-delivery.vercel.app/",
-        heading:"Food Delivery",
-    },
-    {
-        id:4,
+        img:'/pimg/mit.png',
         
-        img:'/pimg/food.png',
-        link:"https://food-delivery.vercel.app/",
-        heading:"Food Delivery",
+        link:"https://mitsloan.mit.edu/",
+        heading:"MIT",
     },
     {
         id:5,
-      
-        img:'/pimg/rcar.png',
-        link:"https://racing-car.vercel.app/",
-        heading:"Racing-Cars",
+        
+        img:'/pimg/mit.png',
+        
+        link:"https://mitsloan.mit.edu/",
+        heading:"MIT",
     },
+  
+  
 ]

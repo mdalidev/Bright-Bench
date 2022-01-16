@@ -9,6 +9,7 @@ import './intro.css'
 import Social from './Socialmedia/Social'
 const  Intro=()=> {
     return (
+        <>
         <div className="i">
          
             <div className="i-left">
@@ -30,7 +31,7 @@ const  Intro=()=> {
                  <p className="i-desc">
                   We always provide our best Mentorship,guidance to our bright students and always try to help them to achieve their very bright & best future.
                  </p>
-                 <Social/>
+                 {/* <Social/> */}
              </div>
             
               </div>
@@ -41,7 +42,10 @@ const  Intro=()=> {
                 <img src={prf} alt="" className="i-img" />
                 {/* <img src={me2} alt="" className="i-img" /> */}
             </div>
+            
         </div>
+        <Social/>
+        </>
     )
 }
 export default Intro

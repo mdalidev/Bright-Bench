@@ -10,7 +10,7 @@ function Skills() {
     return (
         <div id="skill" className="skills">
             <Seperator/>
-            <label className="section-title"> Skills</label>
+            <label className="section-title"> Our Services</label>
             <div className="skills-container">
                 {data.map((item)=>{
                     return(
