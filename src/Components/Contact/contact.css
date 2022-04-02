@@ -37,7 +37,14 @@
     margin: 50px 0px;
     font-weight: 300;
     width: 70%;
+   
 
+}
+.c-info-item a{
+    color: black;
+}
+.c-info-contact{
+    color: red;
 }
 .c-icon{
     width: 30px;

@@ -25,12 +25,37 @@ function About() {
                 <h1 className="a-title">About Us</h1>
                 
                 <p className="a-sub">
-                   Bright Bench is aleading Overseas Education Consulting firm that deals in Study,Work and Migrate option in countries like New Zealand,Australia,Canada,UK,USA,Singapore and Many More...
+              <strong> BrightBench </strong> is a leading Charitable Indian Education Consulting firm that provides unpaid 
+Career Counselling, Study, Selection of best colleges in various fields with best Mentors and 
+Many More…
+<p>
+<strong> BrightBench </strong> is a pioneer in  <strong>“Career Counselling”</strong> think tank that works with an objective to 
+deliver quality knowledge about careers, selection of courses with best colleges and
+Universities to the student so that they can make clear and unbiased choice about their career.
+We are pioneer in this industry. Knowing about the courses, colleges, places, charges involved 
+and procedure for admission is actually not everybody’s cup of tea. Hence, we work 
+meticulously with top notch universities and institute in shaping the career of aspirants and 
+physically manifesting the deep dreams of their parents. At bright bench we believe in 
+simplicity, adherence to basic ethics and values that can mould the child future into a 
+rewardable career. We are known for excellence in providing varied services through our 
+expert team members on the panel. </p>
+ <p><strong> Team,</strong></p> 
+<p>
+    <strong> BrightBench </strong></p>
+
+
                 </p>
                
                 <p className="a-desc">
-                      <h3 >Here is our  Few Courses  Highlights</h3>
-                <ul className="a-desc-list">
+                      <h3 >Why Choose Us</h3>
+                      <p className="a-sub">
+                     <strong>BrightBench</strong>  is a recognised <strong>Charitable</strong>  Indian Education Consulting firm– we help 
+students for successful career counselling, admission at leading education institutions across 
+India on free basis. always looking to set exemplary quality with uncharged service 
+standards. We aim to give you extra value from the services you take and enrich our own 
+value from our experience with you.
+                      </p>
+                {/* <ul className="a-desc-list">
                
                   <li><span style={{fontSize:'17px',color:'darkblue'}}>&#9673;</span>BAchelor's in Engineering</li>
                   <li><span style={{fontSize:'17px',color:'darkblue'}}>&#9673;</span>BAchelor's in Management</li>
@@ -41,7 +66,7 @@ function About() {
                   
                  
                  
-                </ul>
+                </ul> */}
                 </p>
               
             </div>

@@ -37,14 +37,18 @@ function Contact() {
             <div className="c-info">
                 <div className="c-info-item">
                     <img src={ph} alt="" className="c-icon" />
-                    799xxxxxxx
+                    <a target="_blank" className="c-info-contact"  href="tel:+918051515156"/>
+                    <a target="_blank" href="tel:+918051571142"/>
+                    <a target="_blank"  href="tel:+917549161142"/>
                 </div>
                 <div className="c-info-item">
-                    <img src={em} alt="" className="c-icon"/>
-                    abc123xyz0622@gmail.com
+                 
+                    <a target="_blank" className="link" href="mailto: abdulfamousglasshouse@gmail.com">
+                    <img src={em} alt="" className="c-icon"/></a>
                 </div>
                 <div className="c-info-item">
                     <img src={ad} alt="" className="c-icon" />
+                    <a href="   xyz Colony-4520 Bihar India."></a>
                xyz Colony-4520 Bihar India.
                 </div>
             </div>
