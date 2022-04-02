@@ -43,7 +43,7 @@ function Contact() {
                 </div>
                 <div className="c-info-item">
                  
-                    <a target="_blank" className="link" href="mailto: abdulfamousglasshouse@gmail.com">
+                    <a target="_blank" className="link" href="mailto: xyz@gmail.com">
                     <img src={em} alt="" className="c-icon"/></a>
                 </div>
                 <div className="c-info-item">
